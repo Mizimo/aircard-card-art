@@ -42,10 +42,11 @@
 <summary>查看實機演示</summary>
 
 <table>
-  <tr><th>Suica · DeepSeek 鯨魚娘</th><th>PASMO · 千早愛音</th></tr>
+  <tr><th>Suica · DeepSeek 鯨魚娘</th><th>PASMO · 千早愛音</th><th>Suica · 足立レイ</th></tr>
   <tr>
-    <td valign="top"><img src="docs/demos/suica-deepseek-whale-maid-device.png" alt="Suica 實機效果" width="360"></td>
-    <td valign="top"><img src="docs/demos/pasmo-chihaya-anon-device.png" alt="PASMO 實機效果" width="360"></td>
+    <td valign="top"><img src="docs/demos/suica-deepseek-whale-maid-device.png" alt="Suica 鯨魚娘實機效果" width="280"></td>
+    <td valign="top"><img src="docs/demos/pasmo-chihaya-anon-device.png" alt="PASMO 實機效果" width="280"></td>
+    <td valign="top"><img src="docs/demos/suica-adachi-rei-device.png" alt="Suica 足立レイ實機效果" width="280"></td>
   </tr>
 </table>
 
