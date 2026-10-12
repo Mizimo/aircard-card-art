@@ -4,21 +4,21 @@
 
 ## 卡面
 
-| Suica · DeepSeek 鯨魚娘 | PASMO · 千早愛音 |
-| :---: | :---: |
-| ![DeepSeek 鯨魚娘](artwork/suica-deepseek-whale-maid/deepseek-whale-maid-suica-layered-3c3fe760.png) | ![千早愛音](artwork/pasmo-chihaya-anon/pasmo-chihaya-anon-layered-20261012.png) |
-| [PNG](artwork/suica-deepseek-whale-maid/deepseek-whale-maid-suica-layered-3c3fe760.png) · [PSD](artwork/suica-deepseek-whale-maid/deepseek-whale-maid-suica-layered-3c3fe760.psd) | [PNG](artwork/pasmo-chihaya-anon/pasmo-chihaya-anon-layered-20261012.png) · [PSD](artwork/pasmo-chihaya-anon/pasmo-chihaya-anon-layered-20261012.psd) |
+| Suica · DeepSeek 鯨魚娘 | PASMO · 千早愛音 | Suica · 足立レイ |
+| :---: | :---: | :---: |
+| ![DeepSeek 鯨魚娘](artwork/suica-deepseek-whale-maid/deepseek-whale-maid-suica-layered-3c3fe760.png) | ![千早愛音](artwork/pasmo-chihaya-anon/pasmo-chihaya-anon-layered-20261012.png) | ![足立レイ](artwork/suica-adachi-rei/suica-adachi-rei-orange-layered-20261012.png) |
+| [PNG](artwork/suica-deepseek-whale-maid/deepseek-whale-maid-suica-layered-3c3fe760.png) · [PSD](artwork/suica-deepseek-whale-maid/deepseek-whale-maid-suica-layered-3c3fe760.psd) | [PNG](artwork/pasmo-chihaya-anon/pasmo-chihaya-anon-layered-20261012.png) · [PSD](artwork/pasmo-chihaya-anon/pasmo-chihaya-anon-layered-20261012.psd) | [PNG](artwork/suica-adachi-rei/suica-adachi-rei-orange-layered-20261012.png) · [PSD](artwork/suica-adachi-rei/suica-adachi-rei-orange-layered-20261012.psd) |
 
 [下載全部](https://github.com/Mizimo/aircard-card-art/releases/latest) · PNG 用來套用卡面，PSD 用來繼續修改。
 
 ## 製作方法
 
-這兩款採用「分層生成，再手動排版」的方式：
+卡面採用「分層生成，再手動排版」的方式：
 
 1. **找參考**：準備原卡面與角色圖片，確認標誌排版和角色特徵。
 2. **分開生成**：用 ImageGen 製作透明背景的人物層與獨立背景，預留標誌的位置。
 3. **組合圖層**：在 Photoshop 建立橫向畫布（本作為 1579 × 996 px），分別放入背景、人物、標誌及裝飾。標誌從參考圖提取，保留字形比例。
-4. **調整排版**：Suica 的玻璃梯形另外繪製，校正水平邊和圓角；PASMO 保留三行標誌，加入淡白漸層讓文字清楚。位置、大小與透明度在 PSD 裡調整。
+4. **調整排版**：Suica 的梯形另外繪製，校正水平邊和圓角；PASMO 保留三行標誌，加入淡白漸層讓文字清楚。位置、大小與透明度在 PSD 裡調整。
 5. **實機確認**：保留分層 PSD，匯出 PNG，透過 AirCard 套用後檢查圓角裁切、文字與人物是否被擋住。
 
 <details>
@@ -39,7 +39,7 @@
 ## 實機效果
 
 <details>
-<summary>查看兩款卡面的實機演示</summary>
+<summary>查看實機演示</summary>
 
 <table>
   <tr><th>Suica · DeepSeek 鯨魚娘</th><th>PASMO · 千早愛音</th></tr>
